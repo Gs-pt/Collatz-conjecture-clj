@@ -1,36 +1,19 @@
 # collatz
 
-FIXME: description
+A collatz conjecture script in clojure inspired from my old lua collatz conjecture
 
-## Installation
-
-Download from http://example.com/FIXME.
 
 ## Usage
 
-FIXME: explanation
+Run:
 
-    $ java -jar collatz-0.1.0-standalone.jar [args]
+    $ java -jar collatz-1.1-ALPHA-standalone.jar
 
-## Options
 
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
-Copyright © 2026 FIXME
+Copyright © 2026 Gaspar Silva
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
